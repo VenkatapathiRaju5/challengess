@@ -1,3 +1,4 @@
+# for challenge
 # creating a new vpc with dns resolution support
 resource "aws_vpc" "vpc_guilherme" {
   cidr_block           = "10.0.0.0/16"
